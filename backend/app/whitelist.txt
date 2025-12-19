@@ -1,0 +1,26 @@
+# Manual Whitelist - Trusted Domains
+# Add one domain per line (without http:// or https://)
+# Lines starting with # are comments
+
+# Major tech companies
+google.com
+github.com
+microsoft.com
+apple.com
+amazon.com
+facebook.com
+twitter.com
+linkedin.com
+youtube.com
+instagram.com
+reddit.com
+stackoverflow.com
+
+# Financial institutions (add your trusted banks)
+# paypal.com
+# chase.com
+
+# Government sites
+# .gov domains are generally trusted
+
+# Add more trusted domains below:

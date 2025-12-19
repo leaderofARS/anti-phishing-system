@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.9090909090909091,
+  "n_features": 14,
+  "feature_names": [
+    "url_length",
+    "domain_length",
+    "path_length",
+    "has_ip",
+    "num_dots",
+    "num_hyphens",
+    "num_underscores",
+    "num_slashes",
+    "num_questionmarks",
+    "num_equals",
+    "num_ampersands",
+    "num_special_chars",
+    "has_suspicious_tld",
+    "suspicious_keyword_count"
+  ],
+  "model_type": "RandomForestClassifier",
+  "dataset": "cybersecurity-dataset (Kaggle)",
+  "features_type": "URL-only (no external APIs needed)"
+}

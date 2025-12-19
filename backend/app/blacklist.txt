@@ -1,0 +1,9 @@
+# Manual Blacklist - Known Malicious/Suspicious Domains
+# Add one domain per line (without http:// or https://)
+# Lines starting with # are comments
+
+# Known scam databases
+aa419.org
+db.aa419.org
+
+# Add more suspicious domains below:
